@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arthurhip98
 - 👀 I’m interested in Análise de Dados
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science | Python
 - 💞️ I’m looking to collaborate on projeto na área de Data Science
 - 📫 How to reach me pelo gmail: ahipolitoribeirodossantos@gmail.com  
 
